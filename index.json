@@ -1,0 +1,66 @@
+{
+  "schema": 2,
+  "generatedAt": "2026-10-18T21:52:00+08:00",
+  "plugins": [
+    {
+      "types": [
+        "source"
+      ],
+      "id": "missav",
+      "name": "MissAV",
+      "author": "",
+      "version": "0.1.0",
+      "description": "MissAV 片源：搜索、详情、m3u8 直链播放",
+      "hasWebui": true,
+      "depends": [],
+      "bytes": 4263,
+      "md5": "d407f5643ae91b5338e075da875bd374",
+      "path": "missav-0.1.0.tar.gz"
+    },
+    {
+      "types": [
+        "source"
+      ],
+      "id": "avdb",
+      "name": "Avdb",
+      "author": "",
+      "version": "0.1.0",
+      "description": "Avdb 片源：搜索、详情、m3u8 直链播放",
+      "hasWebui": true,
+      "depends": [],
+      "bytes": 4065,
+      "md5": "675dd45629f843412072fc0238556fae",
+      "path": "avdb-0.1.0.tar.gz"
+    },
+    {
+      "types": [
+        "source"
+      ],
+      "id": "123av",
+      "name": "123AV",
+      "author": "",
+      "version": "0.1.0",
+      "description": "123AV 片源：搜索、详情、m3u8 直链播放",
+      "hasWebui": true,
+      "depends": [],
+      "bytes": 4959,
+      "md5": "979b574797050ec8c4ab7ba2b58c5893",
+      "path": "123av-0.1.0.tar.gz"
+    },
+    {
+      "types": [
+        "metadata"
+      ],
+      "id": "javdb",
+      "name": "JavDB",
+      "author": "",
+      "version": "0.1.0",
+      "description": "JavDB 元数据：番号数据库",
+      "hasWebui": true,
+      "depends": [],
+      "bytes": 7114,
+      "md5": "655c51a5040d0714e6970c9a827bc1e8",
+      "path": "javdb-0.1.0.tar.gz"
+    }
+  ]
+}

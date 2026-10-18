@@ -78,10 +78,10 @@
     ]
   },
   "avdb": {
-    "version": "0.2.3",
-    "path": "avdb-0.2.3.tar.gz",
-    "md5": "ad4f7229fb9f662ee1ac552febc3aa1b",
-    "bytes": 4894,
+    "version": "0.2.4",
+    "path": "avdb-0.2.4.tar.gz",
+    "md5": "bbcbc3c7755deadb4f3fdab4dba21abc",
+    "bytes": 5479,
     "types": [
       "source",
       "metadata"

@@ -66,5 +66,25 @@
       "md5": "105e32dc0ce449bb5b2a777236619b20",
       "path": "javdb-0.2.0.tar.gz"
     }
-  ]
+  ],
+  "av123": {
+    "version": "0.2.3",
+    "path": "av123-0.2.3.tar.gz",
+    "md5": "9e7a349a44c271070090c082aec45d5f",
+    "bytes": 5634,
+    "types": [
+      "source",
+      "metadata"
+    ]
+  },
+  "avdb": {
+    "version": "0.2.3",
+    "path": "avdb-0.2.3.tar.gz",
+    "md5": "ad4f7229fb9f662ee1ac552febc3aa1b",
+    "bytes": 4894,
+    "types": [
+      "source",
+      "metadata"
+    ]
+  }
 }

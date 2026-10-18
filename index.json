@@ -13,8 +13,8 @@
       "description": "MissAV 片源：搜索、详情、m3u8 直链播放",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4263,
-      "md5": "d407f5643ae91b5338e075da875bd374",
+      "bytes": 4297,
+      "md5": "3c7bbec61dc9f4e3f7bed9b7fa46bd02",
       "path": "missav-0.1.0.tar.gz"
     },
     {
@@ -28,24 +28,24 @@
       "description": "Avdb 片源：搜索、详情、m3u8 直链播放",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4065,
-      "md5": "675dd45629f843412072fc0238556fae",
+      "bytes": 4133,
+      "md5": "f21df8d8901d4a3203deac2a38be22a6",
       "path": "avdb-0.1.0.tar.gz"
     },
     {
       "types": [
         "source"
       ],
-      "id": "123av",
+      "id": "av123",
       "name": "123AV",
       "author": "",
       "version": "0.1.0",
       "description": "123AV 片源：搜索、详情、m3u8 直链播放",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4959,
-      "md5": "979b574797050ec8c4ab7ba2b58c5893",
-      "path": "123av-0.1.0.tar.gz"
+      "bytes": 4933,
+      "md5": "fa207d0e8725cdcc78d62e655d468e57",
+      "path": "av123-0.1.0.tar.gz"
     },
     {
       "types": [

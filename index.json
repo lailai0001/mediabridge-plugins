@@ -68,10 +68,12 @@
     }
   ],
   "missav": {
-    "version": "0.2.8",
-    "path": "missav-0.2.8.tar.gz",
-    "md5": "548a6c2d0299e8158449cd51685d6a7d",
-    "bytes": 7975,
+    "id": "missav",
+    "name": "MissAV",
+    "version": "0.2.9",
+    "path": "missav-0.2.9.tar.gz",
+    "bytes": 8712,
+    "md5": "138b413edc3c9c0b59e83ab97662a000",
     "types": [
       "source",
       "home",

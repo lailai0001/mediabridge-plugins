@@ -37,18 +37,19 @@
     },
     {
       "types": [
-        "source"
+        "source",
+        "metadata"
       ],
       "id": "av123",
       "name": "123AV",
       "author": "",
-      "version": "0.1.0",
-      "description": "123AV 片源：搜索、详情、m3u8 直链播放",
+      "version": "0.2.0",
+      "description": "123AV 片源+元数据：搜索、详情、m3u8 直链播放；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4933,
-      "md5": "fa207d0e8725cdcc78d62e655d468e57",
-      "path": "av123-0.1.0.tar.gz"
+      "bytes": 5441,
+      "md5": "86497e77ce01494f732ff936248aab3e",
+      "path": "av123-0.2.0.tar.gz"
     },
     {
       "types": [

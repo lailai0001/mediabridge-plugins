@@ -10,13 +10,13 @@
       "id": "missav",
       "name": "MissAV",
       "author": "",
-      "version": "0.2.0",
-      "description": "MissAV 片源：搜索、详情、m3u8 直链播放；14 行首页（最新/字幕/FC2/素人/无码等）",
+      "version": "0.2.2",
+      "description": "MissAV 片源：搜索、详情、m3u8 直链播放；8 行首页（中文字幕/最近更新/新作上市/无码流出/本周热门/本月热门/FC2/麻豆）",
       "hasWebui": true,
       "depends": [],
-      "bytes": 5402,
-      "md5": "2c1e5c7d181d98718b906c38e041356c",
-      "path": "missav-0.2.0.tar.gz"
+      "bytes": 5579,
+      "md5": "e5b10fbefe4a9a64ea60969228326d95",
+      "path": "missav-0.2.2.tar.gz"
     },
     {
       "types": [

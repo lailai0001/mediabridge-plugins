@@ -27,13 +27,13 @@
       "id": "avdb",
       "name": "Avdb",
       "author": "",
-      "version": "0.2.1",
-      "description": "Avdb 片源+元数据：搜索、详情、m3u8 直链播放；Emby 搜索域可用",
+      "version": "0.2.4",
+      "description": "Avdb 片源+元数据：搜索、详情；播放走 CF Worker 视频代理（解决 IP 绑定）；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4816,
-      "md5": "3eb3fcf15c522e5da58205e595436598",
-      "path": "avdb-0.2.1.tar.gz"
+      "bytes": 5479,
+      "md5": "bbcbc3c7755deadb4f3fdab4dba21abc",
+      "path": "avdb-0.2.4.tar.gz"
     },
     {
       "types": [

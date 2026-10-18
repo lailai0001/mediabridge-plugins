@@ -66,5 +66,11 @@
       "md5": "105e32dc0ce449bb5b2a777236619b20",
       "path": "javdb-0.2.0.tar.gz"
     }
-  ]
+  ],
+  "missav": {
+    "version": "0.2.7",
+    "md5": "2437a495518db02c2afef0d96750748b",
+    "bytes": 7449,
+    "path": "missav-0.2.7.tar.gz"
+  }
 }

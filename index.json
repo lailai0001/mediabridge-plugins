@@ -4,18 +4,19 @@
   "plugins": [
     {
       "types": [
-        "source"
+        "source",
+        "home"
       ],
       "id": "missav",
       "name": "MissAV",
       "author": "",
-      "version": "0.1.0",
-      "description": "MissAV 片源：搜索、详情、m3u8 直链播放",
+      "version": "0.2.0",
+      "description": "MissAV 片源：搜索、详情、m3u8 直链播放；14 行首页（最新/字幕/FC2/素人/无码等）",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4297,
-      "md5": "3c7bbec61dc9f4e3f7bed9b7fa46bd02",
-      "path": "missav-0.1.0.tar.gz"
+      "bytes": 5575,
+      "md5": "4ef58b84c2e2387cdbbf2554bc8fe834",
+      "path": "missav-0.2.0.tar.gz"
     },
     {
       "types": [

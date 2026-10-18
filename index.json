@@ -11,13 +11,13 @@
       "id": "missav",
       "name": "MissAV",
       "author": "",
-      "version": "0.2.4",
-      "description": "MissAV 片源+元数据：搜索、详情、m3u8 直链播放；8 行首页；Emby 搜索域可用",
+      "version": "0.2.5",
+      "description": "MissAV 片源：搜索、详情、m3u8 直链播放；8 行首页；metadata 搜索域；封面支持图片代理",
       "hasWebui": true,
       "depends": [],
-      "bytes": 5949,
-      "md5": "7ec1a04f21b79c72c5f467ccbd90cdd1",
-      "path": "missav-0.2.4.tar.gz"
+      "bytes": 7169,
+      "md5": "72d9ebf52e0445fc6687d60202f51360",
+      "path": "missav-0.2.5.tar.gz"
     },
     {
       "types": [

@@ -21,18 +21,19 @@
     },
     {
       "types": [
-        "source"
+        "source",
+        "metadata"
       ],
       "id": "avdb",
       "name": "Avdb",
       "author": "",
-      "version": "0.1.0",
-      "description": "Avdb 片源：搜索、详情、m3u8 直链播放",
+      "version": "0.2.0",
+      "description": "Avdb 片源+元数据：搜索、详情、m3u8 直链播放；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 4133,
-      "md5": "f21df8d8901d4a3203deac2a38be22a6",
-      "path": "avdb-0.1.0.tar.gz"
+      "bytes": 4729,
+      "md5": "3468830f0643b70a539f8e89ff6e71ad",
+      "path": "avdb-0.2.0.tar.gz"
     },
     {
       "types": [

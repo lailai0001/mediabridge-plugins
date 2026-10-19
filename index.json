@@ -27,14 +27,14 @@
       "id": "avdb",
       "name": "Avdb",
       "author": "",
-      "version": "0.2.6",
+      "version": "0.2.7",
       "description": "Avdb 片源+元数据：搜索番号直达（vod_exact）；播放走 CF Worker 视频代理；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 5906,
-      "md5": "2360f22f3a23480d426e481ec2451494",
-      "path": "avdb-0.2.5.tar.gz",
-      "url": "https://github.com/lailai0001/mediabridge-plugins/raw/main/avdb-0.2.6.tar.gz"
+      "bytes": 6261,
+      "md5": "fde163e33761cb4b3385151d5e5e75b3",
+      "path": "avdb-0.2.7.tar.gz",
+      "url": "https://github.com/lailai0001/mediabridge-plugins/raw/main/avdb-0.2.7.tar.gz"
     },
     {
       "types": [

@@ -1,0 +1,26 @@
+{
+  "author": "",
+  "contract": 1,
+  "description": "123AV 片源+元数据：搜索、详情、m3u8 直链播放；Emby 搜索域可用",
+  "domain": "av123",
+  "files": {
+    "index.js": "d985eb5ad9b94ae6f026cf6bee4421a0",
+    "lib/av123.js": "a7b61787cd9308671b3684ad496351a3",
+    "ui/index.html": "07708058c002d6ae8687c8b8af9e96fc"
+  },
+  "id": "av123",
+  "main": "index.js",
+  "name": "123AV",
+  "types": [
+    "source",
+    "metadata"
+  ],
+  "version": "0.2.6",
+  "webui": {
+    "metadata": "ui/index.html",
+    "source": "ui/index.html"
+  },
+  "binds": [
+    "av123"
+  ]
+}

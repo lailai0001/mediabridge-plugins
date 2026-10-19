@@ -27,13 +27,14 @@
       "id": "avdb",
       "name": "Avdb",
       "author": "",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "description": "Avdb 片源+元数据：搜索番号直达（vod_exact）；播放走 CF Worker 视频代理；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 5663,
-      "md5": "427a16f67f9f507b6d1089a508fe8553",
-      "path": "avdb-0.2.5.tar.gz"
+      "bytes": 5906,
+      "md5": "2360f22f3a23480d426e481ec2451494",
+      "path": "avdb-0.2.5.tar.gz",
+      "url": "https://github.com/lailai0001/mediabridge-plugins/raw/main/avdb-0.2.6.tar.gz"
     },
     {
       "types": [
@@ -43,13 +44,14 @@
       "id": "av123",
       "name": "123AV",
       "author": "",
-      "version": "0.2.5",
+      "version": "0.2.6",
       "description": "123AV 片源+元数据：搜索番号直达（vod_exact）；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 6262,
-      "md5": "f00493a324b78b3e9887d37003bd8b44",
-      "path": "av123-0.2.5.tar.gz"
+      "bytes": 7280,
+      "md5": "d61d7d0ce155241ad30c8a0c4313439a",
+      "path": "av123-0.2.5.tar.gz",
+      "url": "https://github.com/lailai0001/mediabridge-plugins/raw/main/av123-0.2.6.tar.gz"
     },
     {
       "types": [

@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-19T01:12:59+08:00",
+  "generatedAt": "2026-10-19T02:40:28.916Z",
   "plugins": [
     {
       "types": [
@@ -11,13 +11,13 @@
       "id": "missav",
       "name": "MissAV",
       "author": "",
-      "version": "0.3.0",
-      "description": "MissAV 片源：搜索、详情、多清晰度播放；14 行首页（插件侧缓存+并行抓取提速）",
+      "version": "0.3.2",
+      "description": "MissAV 片源：搜索、详情、多清晰度播放；14 行首页（插件侧缓存+并行抓取提速，库封面）",
       "hasWebui": true,
       "depends": [],
-      "bytes": 10143,
-      "md5": "762dd8cc1c8324bb87b2ed69efab9852",
-      "path": "missav-0.3.0.tar.gz"
+      "bytes": 10195,
+      "md5": "adedd8b9a9cb6335139b24d3a5afb002",
+      "path": "missav-0.3.2.tar.gz"
     },
     {
       "types": [
@@ -27,13 +27,13 @@
       "id": "avdb",
       "name": "Avdb",
       "author": "",
-      "version": "0.2.4",
-      "description": "Avdb 片源+元数据：搜索、详情；播放走 CF Worker 视频代理（解决 IP 绑定）；Emby 搜索域可用",
+      "version": "0.2.5",
+      "description": "Avdb 片源+元数据：搜索番号直达（vod_exact）；播放走 CF Worker 视频代理；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 5479,
-      "md5": "bbcbc3c7755deadb4f3fdab4dba21abc",
-      "path": "avdb-0.2.4.tar.gz"
+      "bytes": 5663,
+      "md5": "427a16f67f9f507b6d1089a508fe8553",
+      "path": "avdb-0.2.5.tar.gz"
     },
     {
       "types": [
@@ -43,13 +43,13 @@
       "id": "av123",
       "name": "123AV",
       "author": "",
-      "version": "0.2.1",
-      "description": "123AV 片源+元数据：搜索、详情、m3u8 直链播放；Emby 搜索域可用",
+      "version": "0.2.5",
+      "description": "123AV 片源+元数据：搜索番号直达（vod_exact）；Emby 搜索域可用",
       "hasWebui": true,
       "depends": [],
-      "bytes": 5606,
-      "md5": "3bdcc101d32afa7ac8174544130590a6",
-      "path": "av123-0.2.1.tar.gz"
+      "bytes": 6262,
+      "md5": "f00493a324b78b3e9887d37003bd8b44",
+      "path": "av123-0.2.5.tar.gz"
     },
     {
       "types": [
@@ -66,25 +66,5 @@
       "md5": "105e32dc0ce449bb5b2a777236619b20",
       "path": "javdb-0.2.0.tar.gz"
     }
-  ],
-  "av123": {
-    "version": "0.2.4",
-    "path": "av123-0.2.4.tar.gz",
-    "md5": "c97674bf49d7511853a1c731277d1591",
-    "bytes": 6013,
-    "types": [
-      "source",
-      "metadata"
-    ]
-  },
-  "avdb": {
-    "version": "0.2.4",
-    "path": "avdb-0.2.4.tar.gz",
-    "md5": "bbcbc3c7755deadb4f3fdab4dba21abc",
-    "bytes": 5479,
-    "types": [
-      "source",
-      "metadata"
-    ]
-  }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+  "author": "",
+  "contract": 1,
+  "description": "Avdb 片源+元数据：搜索、详情；播放走 CF Worker 视频代理（解决 IP 绑定）；Emby 搜索域可用",
+  "domain": "avdb",
+  "files": {
+    "index.js": "e19f0b80748aa3479ee74e8101001942",
+    "lib/avdb.js": "2967bd16b0e54cea14e771a97a3a5314",
+    "ui/index.html": "7ef4e55ba80a64150d78d65d7026a146"
+  },
+  "id": "avdb",
+  "main": "index.js",
+  "name": "Avdb",
+  "types": [
+    "source",
+    "metadata"
+  ],
+  "version": "0.2.6",
+  "webui": {
+    "metadata": "ui/index.html",
+    "source": "ui/index.html"
+  },
+  "binds": [
+    "avdb"
+  ]
+}
